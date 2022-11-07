@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rodrigo2444
 - 👀 I'm interested in learning Frontend, Backend and Full Stack Development, the most popular and demanded roles in the technology industry!!!
-- 🌱 I'm currently learning some programming languages like javascript and python- 💞️ I’m looking to collaborate on ...
+- 🌱 I'm currently learning some programming languages like javascript and python
 - 📫 How to reach me ...
 
 <!---
